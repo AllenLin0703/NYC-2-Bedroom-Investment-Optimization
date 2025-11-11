@@ -14,7 +14,6 @@ By comparing annual rental income, cleaning fees, and property prices across dif
 
 ### 2️⃣ Key Metrics
 We calculated **annual revenue** and **payback ratio** using the following logic:
-```text
 Final Revenue = Base price + Extra guest fee + Cleaning fee + Security deposit
 Payback Ratio = Final Revenue / Property Price
 
